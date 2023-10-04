@@ -1,0 +1,8 @@
+.main_page{
+    background-color: rgba(0, 120,140, 50);
+    text-align: center;
+}
+ul{
+    font-size: 1.5rem;
+    list-style-position: inside;
+}
